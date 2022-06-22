@@ -1,0 +1,60 @@
+---
+title: "Stock Performance Monitoring"
+
+author: "Rahman Karimiyazdi (S2108177) <br>Rozaidawati Zainul Aznam (S2153846)<br>Md Tuhin
+  Hossain (S2116205)<br>Hossein Golmohammadi (S2155520)<br>Saravanan Sukumaran (S2155503)<br>
+  Seah Teong Tat (S2130478)" 
+  
+date: '2022-06-15'
+output: ioslides_presentation
+subtitle: Shiny App Presentation
+---
+
+## Challenge Investing in Share Market
+
+[Addressing the problems for investor:]{.underline}
+
+-   What should I invest in? - variety of investments choices
+
+-   Which company should I invest? - many companies to choose
+
+[Solution:]{.underline} A product that helps investor for investment decision.
+
+![](images/How%20to%20pick%20stocks-02.jpg){width="591"}
+
+## Focus: S&P 500 shares data
+
+Initial data is obtained via Kaggle and web scraping method:
+
+```{r echo=FALSE, fig.height=10, fig.width=10}
+library(readxl)
+Data <- read_excel("/Users/tattat/Web Scraping/SharePrice500")
+df <- data.frame(Data)
+str(df)
+```
+
+-   Past historical data is obtained, with opening and close price for 504 shares in S&P500
+
+-   ::: {style="color: green"}
+    Limitation: Will the data be obsolete to predict the share price?
+    :::
+
+## Improvements on dataset
+
+In order to capture accuracy of stock price prediction, we linked the data directly to [YahooFinance](https://finance.yahoo.com/most-active).
+
+-   Avoid obsolete data in predicting the stock price, Velocity
+
+-   Avoid redundancy to update the stock price, Volume
+
+![](images/AAPL%20share%20price-02.jpg){width="773"}
+
+## Data Product
+
+Link: [App-Stock Monitoring Performance](https://tuhinhossain.shinyapps.io/stock_prediction/); [Github Repositories](https://github.com/TeongTat/Stock-Prediction-Monitoring)
+
+Welcome page will explains the function of each tab.
+
+Investors can check performance on the stocks and price prediction in S&P500.
+
+![](images/Aaple%20share%20sample.jpg){width="816"}
