@@ -22,7 +22,7 @@ The output of the product it will give a guidance for investors on which stocks 
 
 | Files | Description |
 | --- | --- |
-| app.R| R code file for Shiny app.|
+| app.R| R code file for Shiny app|
 | Stock Performance Monitoring.html | Presentation in HTML mode |
 | Stock-monitoring-slide.Rmd | R Markdown file for About page |
 | Index.html | the code for trading page in Shiny.app |
