@@ -41,8 +41,8 @@ The output of the product it will give a guidance for investors on which stocks 
 •	[Tat]([url](https://github.com/TeongTat))<br>
 
 # Disclaimer
-The views, data, information or code created for this project are solely those individuals involved. This is a project developed and created for educational purposes. 
-This data product is available for private, non-commercial use only. Commercial usage are welcomed but the authors and developers are not liable for any losses incurred due to the use of this repository. 
+The views, data, information or code created for this project are solely those individuals involved. This is a project developed and created for educational purposes. <br>
+This data product is available for private, non-commercial use only. Commercial usage are welcomed but the authors and developers are not liable for any losses incurred due to the use of this repository.<br> 
 The data product recreated for commercial usage is strictly prohibited without express consent approval and knowledge from the creators of this project.
 
 
