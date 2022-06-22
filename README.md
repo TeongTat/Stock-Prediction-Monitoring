@@ -35,10 +35,10 @@ The output of the product it will give a guidance for investors on which stocks 
 # Team
 •	Rahman Karimiyazdi<br>
 •	Md Tuhin Hossain<br>
-•	[Rozaidawati]([url](https://github.com/rozaidawati/rozaidawati))<br>
+•	[Rozaidawati](https://github.com/rozaidawati/rozaidawati)<br>
 •	Hossein Golmohammadi<br>
-•	Saravanan Sukumaran<br>
-•	[Tat]([url](https://github.com/TeongTat))<br>
+•	[Saravanan Sukumaran](https://github.com/SARAVANANSUKUMARAN)<br>
+•	[Tat](https://github.com/TeongTat)<br>
 
 # Disclaimer
 The views, data, information or code created for this project are solely those individuals involved. This is a project developed and created for educational purposes. <br>
