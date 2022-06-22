@@ -33,12 +33,12 @@ The output of the product it will give a guidance for investors on which stocks 
 4.	Load the code into R Studio and run it!.
 
 # Team
-•	Rahman Karimiyazdi<br>
-•	Md Tuhin Hossain<br>
-•	[Rozaidawati](https://github.com/rozaidawati/rozaidawati)<br>
-•	Hossein Golmohammadi<br>
-•	[Saravanan Sukumaran](https://github.com/SARAVANANSUKUMARAN)<br>
-•	[Tat](https://github.com/TeongTat)<br>
+- [Rahman Karimiyazdi](https://github.com/ramanyazdi)
+- Md Tuhin Hossain
+- [Rozaidawati](https://github.com/rozaidawati/rozaidawati)
+- [Hossein Golmohammadi](https://github.com/Hosseinglm)
+- [Saravanan Sukumaran](https://github.com/SARAVANANSUKUMARAN)
+- [Tat](https://github.com/TeongTat)<br>
 
 # Disclaimer
 The views, data, information or code created for this project are solely those individuals involved. This is a project developed and created for educational purposes. <br>
