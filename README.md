@@ -30,7 +30,7 @@ The output of the product it will give a guidance for investors on which stocks 
 1.	Install R and RStudio (or any IDE you like) if you have not done so.
 2.	Clone the repository to your local.
 3.	Open the project as a new R project.
-4.	Load the code into R Studio and run it!.
+4.	Load the code into R Studio and run it!
 
 # Team
 - [Rahman Karimiyazdi](https://github.com/ramanyazdi)
